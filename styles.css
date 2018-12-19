@@ -1,0 +1,27 @@
+.sort-element:hover {
+    color: #ff5722;
+    cursor: pointer;
+}
+
+.address-block {
+    display: block;
+    font-size: 18px;
+}
+.address-key {
+    font-weight: 400;
+    color: #ff5722;
+}
+.close-company-address {
+    float: right;
+    font-size: 24px;
+    line-height: 22px;
+    cursor: pointer;
+}
+.sorted,
+.close-company-address:hover {
+    color: #ff5722;
+}
+.dropdown-dark {
+    color: #ffffff;
+    background-color: #1f2428;
+}
